@@ -1,8 +1,8 @@
-# Colors!
+# Practical Web Development Assignment 2
 
 <div align="center">
     <img src='./public/colors-logo.png' width="150"></img>
-    <h1>CV Builder</h1>
+    <h1>Colors!</h1>
 </div>
 
 <details open>
